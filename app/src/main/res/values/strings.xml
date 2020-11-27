@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">押して、どうぞ</string>
     <string name="edit_message">Make a Message</string>
     <string name="button_send">Send</string>
+    <string name="oon">オォン!</string>
+    <string name="aon">アォン!</string>
 </resources>
